@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonodjlee&layout=compact&hide=html" alt="jonodjlee" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jonodjlee&show_icons=true" alt="jonodjlee" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jonodjlee&show_icons=true&count_private=true&include_all_commits=true" alt="jonodjlee" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/jonodjlee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonodjlee" height="30" width="30" /></a>
