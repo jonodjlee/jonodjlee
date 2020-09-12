@@ -9,7 +9,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jonodjlee&show_icons=true&count_private=true&include_all_commits=true&title_color=b000ff" alt="jonodjlee" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/jonodjlee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonodjlee" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/jonodjlee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonodjlee" height="30" width="30" /></a> <a href="https://github.com/jonodjlee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jonodjlee" height="30" width="30" /></a>
 </p>
 
 <!--START_SECTION:waka-->
