@@ -11,6 +11,10 @@
 <a href="https://linkedin.com/in/jonodjlee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonodjlee" height="30" width="30" /></a>
 </p>
 
+<a href="https://spotify-realtime.vercel.app/now-playing?open">
+    <img src="https://spotify-realtime.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 <!--
 **jonodjlee/jonodjlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
