@@ -14,10 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2020 - 14 September, 2020
+Week: 08 September, 2020 - 15 September, 2020
 
-HTML         31 mins         █████████████████████░░░░   83.82 % 
-JSON         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+HTML         1 hr 50 mins    ████████████████████▒░░░░   81.68 % 
+Ruby         18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 <!--END_SECTION:waka-->
 
