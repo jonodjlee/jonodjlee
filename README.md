@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2020 - 24 September, 2020
+Week: 18 September, 2020 - 25 September, 2020
 
-HTML         2 hrs 6 mins    ██████████▓░░░░░░░░░░░░░░   42.25 % 
-CSS          1 hr 19 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.51 % 
-JavaScript   1 hr 10 mins    ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-TypeScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+HTML         1 hr 57 mins    ██████████░░░░░░░░░░░░░░░   40.47 % 
+CSS          1 hr 19 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.32 % 
+JavaScript   1 hr 10 mins    ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+TypeScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 <!--END_SECTION:waka-->
 
