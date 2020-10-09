@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2020 - 07 October, 2020
+Week: 01 October, 2020 - 08 October, 2020
 
 HTML   46 mins         ██████████████████░░░░░░░   71.56 % 
 Text   15 mins         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
