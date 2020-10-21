@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2020 - 19 October, 2020
+Week: 13 October, 2020 - 20 October, 2020
 
 HTML   16 mins         ████████████████████░░░░░   80.31 % 
 CSS    4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
