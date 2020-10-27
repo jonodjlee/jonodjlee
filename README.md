@@ -14,10 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2020 - 25 October, 2020
-
-HTML   15 mins         ████████████████████░░░░░   79.40 % 
-CSS    4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
