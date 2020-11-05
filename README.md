@@ -14,7 +14,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 28 October, 2020 - 04 November, 2020
+
+
 ```
 <!--END_SECTION:waka-->
 
