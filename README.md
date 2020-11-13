@@ -14,7 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 November, 2020 - 12 November, 2020
+
+HTML         22 mins         ██████████████░░░░░░░░░░░   56.63 % 
+CSS          13 mins         ████████▓░░░░░░░░░░░░░░░░   34.76 % 
+JavaScript   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 <!--END_SECTION:waka-->
 
