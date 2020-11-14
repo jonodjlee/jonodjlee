@@ -14,11 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2020 - 12 November, 2020
+Week: 06 November, 2020 - 13 November, 2020
 
-HTML         22 mins         ██████████████░░░░░░░░░░░   56.63 % 
-CSS          13 mins         ████████▓░░░░░░░░░░░░░░░░   34.76 % 
-JavaScript   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+HTML         51 mins         ████████████████▓░░░░░░░░   66.80 % 
+CSS          21 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+JavaScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 ```
 <!--END_SECTION:waka-->
 
