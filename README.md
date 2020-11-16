@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2020 - 14 November, 2020
+Week: 08 November, 2020 - 15 November, 2020
 
 HTML         51 mins         ████████████████▓░░░░░░░░   66.80 % 
 CSS          21 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 % 
