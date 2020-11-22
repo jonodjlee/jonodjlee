@@ -14,9 +14,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2020 - 20 November, 2020
+Week: 14 November, 2020 - 21 November, 2020
 
-HTML       42 mins         ████████████████████████▒   96.98 % 
+HTML       51 mins         ████████████████████████▒   97.49 % 
 ```
 <!--END_SECTION:waka-->
 
