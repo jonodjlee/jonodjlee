@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2020 - 14 December, 2020
+Week: 08 December, 2020 - 15 December, 2020
 
 HTML         8 mins          ███████████████▒░░░░░░░░░   61.07 % 
 JavaScript   5 mins          █████████▓░░░░░░░░░░░░░░░   38.93 % 
