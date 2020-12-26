@@ -14,9 +14,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
-HTML   31 mins         ████████████████████████▓   99.16 % 
+HTML   23 mins         ████████████████████████▓   98.88 % 
 ```
 <!--END_SECTION:waka-->
 
