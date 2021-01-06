@@ -29,6 +29,8 @@ JSON   1 min           ██▓░░░░░░░░░░░░░░░░
     <img src="https://spotify-realtime.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n7uyuj9of1r19y2xkrytai8p3)
+
 <!--
 **jonodjlee/jonodjlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
