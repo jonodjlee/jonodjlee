@@ -30,7 +30,7 @@ JSON   1 min           ██▓░░░░░░░░░░░░░░░░
 </a>
 
 ![Alt text](https://spotify-recently-played-jonodjlee.vercel.app/api?user=n7uyuj9of1r19y2xkrytai8p3)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n7uyuj9of1r19y2xkrytai8p3)
+<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n7uyuj9of1r19y2xkrytai8p3)-->
 
 <!--
 **jonodjlee/jonodjlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
