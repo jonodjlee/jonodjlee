@@ -14,10 +14,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2021 - 08 January, 2021
+Week: 02 January, 2021 - 09 January, 2021
 
-HTML   2 mins          █████████████████▒░░░░░░░   68.78 % 
-JSON   1 min           ███████▓░░░░░░░░░░░░░░░░░   31.22 % 
+HTML   14 mins         ████████████████████████▒   97.50 % 
 ```
 <!--END_SECTION:waka-->
 
