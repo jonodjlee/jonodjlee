@@ -14,9 +14,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2021 - 10 January, 2021
+Week: 04 January, 2021 - 11 January, 2021
 
-HTML   14 mins         ████████████████████████▒   97.50 % 
+HTML   21 mins         ████████████████████████▓   98.22 % 
 ```
 <!--END_SECTION:waka-->
 
