@@ -14,9 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2021 - 13 January, 2021
+Week: 07 January, 2021 - 14 January, 2021
 
-HTML   21 mins         ████████████████████████▓   98.22 % 
+HTML   1 hr 34 mins    ██████████████████████░░░   87.63 % 
+CSS    12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 <!--END_SECTION:waka-->
 
