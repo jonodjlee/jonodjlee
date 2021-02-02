@@ -14,10 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2021 - 31 January, 2021
+Week: 25 January, 2021 - 01 February, 2021
 
-HTML   1 hr 39 mins    █████████████████████▓░░░   87.20 % 
-Text   14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+HTML   1 hr 55 mins    ██████████████████████▒░░   88.76 % 
+Text   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 ```
 <!--END_SECTION:waka-->
 
