@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Lee <!--<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>--></h1>
+<h1 align="center">Hi 👋 <br> I'm Jonathan Lee <!--<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>--></h1>
 <h4 align="center">A frontend developer and creative chilling and vibing in Melbourne, Australia</h4>
 <p align="center"><img src="https://image.flaticon.com/icons/svg/197/197507.svg" width="30"/><img src="https://image.flaticon.com/icons/svg/1452/1452385.svg" width="30"/></p>
 
