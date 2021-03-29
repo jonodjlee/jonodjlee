@@ -14,9 +14,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 March, 2021 - 27 March, 2021
+Week: 21 March, 2021 - 28 March, 2021
 
-HTML   5 mins          █████████████████████████   100.00 % 
+HTML   13 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
