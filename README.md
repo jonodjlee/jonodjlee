@@ -14,9 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 April, 2021 - 21 April, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
