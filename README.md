@@ -14,10 +14,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 August, 2021 - 10 August, 2021
+Week: 05 August, 2021 - 11 August, 2021
 
-HTML   48 mins         ████████████████████▒░░░░   80.84 % 
-CSS    11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 % 
+HTML   43 mins         ████████████████████████▓   98.29 % 
 ```
 <!--END_SECTION:waka-->
 
