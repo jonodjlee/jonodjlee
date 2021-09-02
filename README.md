@@ -14,11 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2021 - 31 August, 2021
-
-HTML         1 hr 46 mins    █████████████████████░░░░   84.03 % 
-CSS          14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
