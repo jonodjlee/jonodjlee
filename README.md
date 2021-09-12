@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2021 - 10 September, 2021
+Week: 05 September, 2021 - 11 September, 2021
 
 HTML         59 mins         ████████████████████▓░░░░   82.50 % 
 CSS          9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 % 
