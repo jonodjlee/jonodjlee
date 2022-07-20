@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No coding activity tracked this week
+No coding activity tracked this week (yet)
 ```
 <!--END_SECTION:waka-->
 
