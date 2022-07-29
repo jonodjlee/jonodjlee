@@ -13,9 +13,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+
 ```text
-No coding activity tracked this week (yet)
+From: 21 July 2022 - To: 28 July 2022
+
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
