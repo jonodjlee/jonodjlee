@@ -15,7 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 August 2022 - To: 30 August 2022
+
+HTML         1 hr 34 mins    ████████████████████████▒   97.13 %
+CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
