@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
 HTML   1 min           ████████████▒░░░░░░░░░░░░   49.40 %
 JSON   1 min           ██████████▒░░░░░░░░░░░░░░   41.15 %
