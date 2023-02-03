@@ -15,10 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 01 February 2023
+From: 26 January 2023 - To: 02 February 2023
 
-Markdown   9 mins          █████████████▓░░░░░░░░░░░   55.29 %
-HTML       7 mins          ███████████▒░░░░░░░░░░░░░   44.71 %
+HTML   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
