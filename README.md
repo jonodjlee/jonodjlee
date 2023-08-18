@@ -15,9 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Markdown   1 min           █████████████████████████   100.00 %
+HTML         10 mins         █████████████████████░░░░   83.92 %
+Markdown     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Text         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
