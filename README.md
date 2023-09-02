@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-HTML   22 mins         ██████████████████▓░░░░░░   74.86 %
-JSON   7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+HTML   31 mins         ████████████████████▒░░░░   80.84 %
+JSON   7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
