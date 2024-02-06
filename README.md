@@ -15,10 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2024 - To: 04 February 2024
+From: 29 January 2024 - To: 05 February 2024
 
-Markdown   0 secs          ████████████████████████▒   96.99 %
-HTML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
