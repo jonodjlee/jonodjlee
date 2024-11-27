@@ -15,9 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-Other   7 hrs 30 mins   █████████████████████████   100.00 %
+Other        8 hrs 39 mins   ██████████████████████░░░   88.52 %
+HTML         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
