@@ -15,9 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2024 - To: 16 December 2024
+From: 10 December 2024 - To: 17 December 2024
 
-Other   4 hrs 3 mins    █████████████████████████   100.00 %
+Other   3 hrs 35 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
