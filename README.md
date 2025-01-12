@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2025 - To: 10 January 2025
+From: 04 January 2025 - To: 11 January 2025
 
-C++     6 hrs 17 mins   ██████████████████░░░░░░░   71.71 %
-Other   2 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   28.29 %
+C++     4 hrs 49 mins   ████████████████▓░░░░░░░░   66.20 %
+Other   2 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.80 %
 ```
 
 <!--END_SECTION:waka-->
