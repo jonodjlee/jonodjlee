@@ -15,9 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Other   2 hrs 17 mins   █████████████████████████   100.00 %
+Other   1 hr 58 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
