@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2025 - To: 09 July 2025
+From: 03 July 2025 - To: 10 July 2025
 
-Other   6 hrs 39 mins   ███████████████████▓░░░░░   79.01 %
-C++     1 hr 46 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+Other   7 hrs 6 mins    ████████████████████░░░░░   79.95 %
+C++     1 hr 46 mins    █████░░░░░░░░░░░░░░░░░░░░   20.05 %
 ```
 
 <!--END_SECTION:waka-->
