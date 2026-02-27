@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
-Other   9 hrs 7 mins          ████████████████████████▒   97.84 %
-C++     12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Other   10 hrs 52 mins        ████████████████████░░░░░   79.58 %
+C++     2 hrs 47 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
 ```
 
 <!--END_SECTION:waka-->
